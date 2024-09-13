@@ -1,0 +1,10 @@
+total people: 5, probability of duplicate: 1.0000
+total people: 10, probability of duplicate: 1.0000
+total people: 15, probability of duplicate: 1.0000
+total people: 20, probability of duplicate: 1.0000
+total people: 25, probability of duplicate: 1.0000
+total people: 30, probability of duplicate: 1.0000
+total people: 35, probability of duplicate: 1.0000
+total people: 40, probability of duplicate: 1.0000
+total people: 45, probability of duplicate: 1.0000
+total people: 50, probability of duplicate: 1.0000
